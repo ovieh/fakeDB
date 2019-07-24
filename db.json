@@ -13,7 +13,7 @@
         type: "Alert",
         description: "Data mis-match on 211-45-11",
         loggedDate: "13:00 13/12/2019",
-        user: null,
+        user: "",
     },
     {
         id: 3,
@@ -21,7 +21,7 @@
         type: "Alert",
         description: "Stockpile X Max Limit",
         loggedDate: "14:00 14/12/2019",
-        user: null,
+        user: "",
     },
     {
         id: 4,
